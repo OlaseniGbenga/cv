@@ -1,0 +1,192 @@
+body {
+  background-color: #F3EFE0;
+  margin: 0;
+  font-family: 'Open Sans', sans-serif;
+}
+a {
+  color: #11999E;
+  margin: 0.3125rem 0.625rem;
+  text-decoration: none;
+}
+a:hover {
+  color: #727878;
+}
+h1{
+  margin: 0;
+  font-size: 3.9375rem;
+}
+h2 {
+  font-size: 3.375rem;
+  text-align: center;
+  margin: 0;
+  color: #56B6AF;
+}
+h3 {color: #56B6AF;
+
+}
+h4 {
+  color: #434242
+}
+hr {
+  background-color: #75C4BE;
+  border-style:solid;
+  opacity: 0.1;
+  width: 21.875rem;
+}
+
+p {
+  font-size: 0.9375rem;
+  color: #727878;
+  line-height: 1.5;
+}
+ul {
+list-style: none;
+padding-left: 0;
+}
+
+ .Livingspring {
+  width: 18.75rem;
+}
+.Languages {
+
+
+  display: inline-block;
+
+  position: relative;
+
+  width: 18.75rem;
+  bottom: -18.75rem;
+  left: 18.75rem;
+}
+
+.Aboutme {
+  height: 15.625rem;
+  width: 15rem;
+  position: relative;
+  left: 17.5rem;
+}
+.Biochemistry{
+  position: relative;
+  left: 31.25rem;
+  bottom: 3.125rem;
+  width: 40.625rem;
+
+}
+.Forth {
+  text-align: center;
+}
+.Creative  {
+ text-align: center;
+ color: #727878;
+ font-size: 1.3125rem;
+}
+.Details {
+ position: relative;
+ left: 52.5rem;
+ bottom: 35.625rem;
+ display: inline-block;
+}
+.Donate {
+ position: relative;
+ bottom: 26.25rem;
+ left: 17.25rem;
+ width: 56.625rem
+}
+.Education1 {
+ position: relative;
+ left: 17.5rem;
+ width: 6.25rem;
+ display: inline-block;
+
+
+}
+.Experiences {
+  padding-top: 1.875rem;
+}
+.First {
+ background-color: #56B6AF;
+
+}
+.Interactive{
+ font-size: 1.75rem;
+ color: white;
+}
+.Joelolaseni {
+ text-align: center;
+ color:#ffffff;
+ height: 41.0625rem;
+
+ background-color: #56B6AF;
+}
+.Joelimage {
+ position: relative;
+ bottom: 16.25rem;
+ left: 32.5rem;
+
+
+}
+.Joel {
+ position: relative;
+ top:15.625rem;
+
+
+}
+.Livingspring {
+  position: relative;
+ left: 31.25rem;
+ top: -8.125rem;
+ width: 40.625rem;
+}
+.Life {
+text-align: center;
+color: #727878;
+font-size: 1.3125rem
+}
+.Profile {
+ background-color: #FFFFFF;
+ height: 40.625rem;
+
+}
+.Profile1 {
+ padding-top: 3.125rem;
+}
+.Protons {
+text-align: center;
+color: #727878;
+font-size: 1.3125rem;
+}
+.Secondary{
+position: relative;
+left: 17.5rem;
+
+top: -3.125rem;
+width: 12.5rem;
+}
+.Second {
+  height: 41.875rem;
+}
+.Skills{
+position: relative;
+left: 18.375rem;
+display: inline-block;
+width: 18.375rem;
+}
+.University {
+ position: relative;
+ left: 17.15rem;
+ top: 1.875rem;
+ width: 12.5rem;
+
+}
+
+.Third {
+  background-color: #ffffff;
+  height: 48.75rem;
+}
+.Tools {
+  position: relative;
+  left: 18.75rem;
+
+  display: inline-block;
+  width: 18.75rem;
+}
